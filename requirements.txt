@@ -1,0 +1,7 @@
+waybar
+rofi
+networkmanager_dmenu
+powerprofilesctl
+nvidia-smi
+pavucontrol
+rofi-bluetooth
