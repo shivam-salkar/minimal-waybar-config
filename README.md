@@ -9,13 +9,13 @@ Full View:
 ![Preview](./images/screen.png)
 
 ## Bluetooth
-![Preview](./images/screen.png)
+![Preview](./images/bluetooth.png)
 
 ## Network Manager
-![Preview](./images/screen.png)
+![Preview](./images/network.png)
 
 ## Battery Options
-![Preview](./images/screen.png)
+![Preview](./images/battery.png)
 
 ## Power Options
-![Preview](./images/screen.png)
+![Preview](./images/power.png)
