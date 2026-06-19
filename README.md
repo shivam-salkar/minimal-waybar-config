@@ -25,13 +25,13 @@ Full View:
 ## 1] Install packages
 Install the required packages through your package manager
 ```bash
-sudo pacman -S waybar rofi networkmanager_dmenu powerprofilesctl nvidia-smi pavucontrol rofi-bluetooth #(For Arch, EndeavourOS, Manjaro, etc)
+sudo pacman -S waybar rofi networkmanager-dmenu powerprofilesctl nvidia-smi pavucontrol #(For Arch, EndeavourOS, Manjaro, etc)
 #OR
 sudo apt install waybar rofi networkmanager_dmenu powerprofilesctl nvidia-smi pavucontrol rofi-bluetooth #(For Ubuntu, Debian, etc)
 ```
 Note:
 ```bash
-yay -S rofi-bluetooth rofi-network-manager
+yay -S rofi-bluetooth-git rofi-network-manager
 ```
 Install rofi-bluetooth and rofi-network-manager from AUR using yay (For Arch, EndeavourOS, Manjaro, etc),
 OR
